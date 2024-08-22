@@ -6,6 +6,7 @@
 - Browser GNOME Shell Integration Extension **(links below)**.
 - User Themes Gnome Shell Extension **(link below)**.
 - There are additional extensions you can install if you want **(links below)**.
+
 ### Theme Installation:
 - Move the theme folder to: ~/.themes
 - If it not exists: 
