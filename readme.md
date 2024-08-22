@@ -1,4 +1,4 @@
-## Purple GTK Material MOD Theme! 
+## Material GTK Theme Purple MOD!
 ![Desktop Printscreen Using The Theme](/img/desktop.png)
 
 ## You Will Need:
