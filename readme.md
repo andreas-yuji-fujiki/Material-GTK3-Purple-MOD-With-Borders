@@ -67,7 +67,7 @@
 
 ### System Settings
 
-- - To use the [ARC MENU](https://extensions.gnome.org/extension/3628/arcmenu/) extension, you will need to disable the desktop dock on system settings.
+- To use the [ARC MENU](https://extensions.gnome.org/extension/3628/arcmenu/) extension, you will need to disable the desktop dock on system settings.
 
 ### Where Tested
 
