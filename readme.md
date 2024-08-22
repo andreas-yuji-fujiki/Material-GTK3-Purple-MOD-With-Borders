@@ -2,10 +2,10 @@
 ![Desktop Printscreen Using The Theme](/img/desktop.png)
 
 ## You Will Need:
-- Gnome Tweaks (tutorial below).
-- Browser GNOME Shell Integration Extension (links below).
-- User Themes Gnome Shell Extension (link below).
-- There are additional extensions you can install if you want (links below).
+- Gnome Tweaks **(tutorial below)**.
+- Browser GNOME Shell Integration Extension **(links below)**.
+- User Themes Gnome Shell Extension **(link below)**.
+- There are additional extensions you can install if you want **(links below)**.
 
 ### GNOME Tweaks - Installation
 
