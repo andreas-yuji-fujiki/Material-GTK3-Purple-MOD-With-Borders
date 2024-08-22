@@ -80,6 +80,10 @@
 - [KITTY DRACULA THEME](https://draculatheme.com/kitty): A Dracula color scheme theme for the Kitty terminal emulator, providing a dark and visually appealing interface.
 - [GNOME TERMINAL DRACULA THEME](https://draculatheme.com/gnome-terminal): A Dracula color scheme theme for GNOME Terminal, offering a cohesive dark theme to enhance readability and reduce eye strain.
 
+### Bonus: Icon Theme
+- Recommend you to install [OCS URL](https://www.opendesktop.org/p/1136805/) for a easy install of icon themes and stuff!
+- [Beauty Solar](https://store.kde.org/p/2037657/)
+
 ## MOD By: Andreas Pinheiro
 - [GITHUB](https://github.com/Andreas-Pinheiro)
 - [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
