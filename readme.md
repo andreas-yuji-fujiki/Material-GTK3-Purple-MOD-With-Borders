@@ -73,7 +73,10 @@
 
 ### System Settings
 
-- To use the [ARC MENU](https://extensions.gnome.org/extension/3628/arcmenu/) extension, you will need to disable the desktop dock on system settings.
+- To use the [ARC MENU](https://extensions.gnome.org/extension/3628/arcmenu/) extension, you will need to disable the desktop dock on system settings;
+- And disable the SUPER shortcut to open "all apps";
+- Then bind a shortcut to open Arc Menu;
+- And, on "Dash to Panel" extension settings, set the icon padding and panel width as you like!
 
 ### Where Tested
 
