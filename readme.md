@@ -79,3 +79,7 @@
 - [POWER LEVEL 10K](https://github.com/romkatv/powerlevel10k): A Zsh theme that provides a fast and highly customizable prompt with rich visual elements and informative status indicators.
 - [KITTY DRACULA THEME](https://draculatheme.com/kitty): A Dracula color scheme theme for the Kitty terminal emulator, providing a dark and visually appealing interface.
 - [GNOME TERMINAL DRACULA THEME](https://draculatheme.com/gnome-terminal): A Dracula color scheme theme for GNOME Terminal, offering a cohesive dark theme to enhance readability and reduce eye strain.
+
+## MOD By: Andreas Pinheiro
+- [GITHUB](https://github.com/Andreas-Pinheiro)
+- [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
