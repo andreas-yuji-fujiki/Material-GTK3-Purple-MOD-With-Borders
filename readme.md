@@ -82,7 +82,7 @@
 
 ### Bonus: Icon Theme
 - Recommend you to install [OCS URL](https://www.opendesktop.org/p/1136805/) for a easy install of icon themes and stuff!
-- [Beauty Solar](https://store.kde.org/p/2037657/)
+- [Beauty Solar Icon Theme (Gnome Look)](https://store.kde.org/p/2037657/)
 
 ## MOD By: Andreas Pinheiro
 - [GITHUB](https://github.com/Andreas-Pinheiro)
