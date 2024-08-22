@@ -1,5 +1,5 @@
 ## Purple Material MOD Theme! 
-![Desktop Printscreen Using The Theme](/img/desktop-print.png)
+![Desktop Printscreen Using The Theme](/img/desktop.png)
 
 ### GNOME Tweaks - Installation
 
