@@ -1,3 +1,6 @@
+## Purple Material MOD Theme! 
+![Desktop Printscreen Using The Theme](/img/desktop-print.png)
+
 ### GNOME Tweaks - Installation
 
 - **DEBIAN:**
@@ -65,8 +68,6 @@
 - Note that it was tested only on POP!_OS
 
 ### Bonus: Terminal
-
-### Bonus Terminal
 
 - [OH MY ZSH](https://ohmyz.sh/): A popular framework for managing Zsh configurations, offering a variety of themes and plugins to enhance the terminal experience.
 - [POWER LEVEL 10K](https://github.com/romkatv/powerlevel10k): A Zsh theme that provides a fast and highly customizable prompt with rich visual elements and informative status indicators.
