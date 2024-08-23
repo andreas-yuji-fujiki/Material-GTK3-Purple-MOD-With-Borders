@@ -9,6 +9,7 @@
 - There are additional extensions you can install if you want **(links below)**.
 
 ### Theme Installation:
+### - First, [DOWNLOAD](https://github.com/Andreas-Pinheiro/Material-GTK-Purple-MOD-With-Borders/raw/master/material-purple-mod-theme.zip) the theme
 - Move the theme folder to: ~/.themes
 - If it not exists: 
    ```bash
