@@ -1,8 +1,8 @@
-## Material GTK Theme Purple MOD!
+## Material GTK3 Theme Purple MOD!
 ![Desktop Printscreen Using The Theme](/img/desktop.png)
 
 ## You Will Need:
-- Gnome desktop environment.
+- Gnome GTK3 desktop environment.
 - Gnome Tweaks **(tutorial below)**.
 - Browser GNOME Shell Integration Extension **(links below)**.
 - User Themes Gnome Shell Extension **(link below)**.
