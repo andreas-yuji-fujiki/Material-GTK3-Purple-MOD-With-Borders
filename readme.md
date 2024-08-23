@@ -9,7 +9,7 @@
 - There are additional extensions you can install if you want **(links below)**.
 
 ### Theme Installation:
-### - First, [DOWNLOAD](https://github.com/Andreas-Pinheiro/Material-GTK-Purple-MOD-With-Borders/raw/master/material-purple-mod-theme.zip) the theme
+### - First, [DOWNLOAD](https://github.com/Andreas-Pinheiro/Material-GTK3-Purple-MOD-With-Borders/raw/master/GTK3-Material-Purple-MOD-Theme.zip) the theme
 - Then, unzip it;
 - Move the theme folder to: ` ~/.themes `;
 - If it not exists: 
