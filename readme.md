@@ -4,7 +4,7 @@
 
 
 
-## You Will Need:
+### You Will Need:
 - Gnome GTK3 desktop environment.
 - Gnome Tweaks **(tutorial below)**.
 - Browser GNOME Shell Integration Extension **(links below)**.
