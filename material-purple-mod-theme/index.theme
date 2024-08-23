@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
-Name=GTK-Purple-Material-Mod
-Comment=An purple mod of Material theme.
-Encoding=UTF-8
-
-[X-GNOME-Metatheme]
-GtkTheme=Material-Palenight
-ButtonLayout=close,minimize,maximize:menu
