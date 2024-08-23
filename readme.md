@@ -2,12 +2,16 @@
 ![Desktop Printscreen Using The Theme](/img/desktop.png)
 
 
+
+
 ## You Will Need:
 - Gnome GTK3 desktop environment.
 - Gnome Tweaks **(tutorial below)**.
 - Browser GNOME Shell Integration Extension **(links below)**.
 - User Themes Gnome Shell Extension **(link below)**.
 - There are additional extensions you can install if you want **(links below)**.
+
+
 
 
 ### Theme Installation:
@@ -48,12 +52,17 @@
     sudo xbps-install -S gnome-tweaks
     ```
 
-### Browser Extensions
 
+
+
+### Browser Extensions
 - **Chrome Extension:**
     [GNOME Shell Integration](https://chromewebstore.google.com/detail/integra%C3%A7%C3%A3o-com-gnome-shel/gphhapmejobijbbhgpjhcjognlahblep)
 - **Firefox Extension:**
     [GNOME Shell Integration](https://addons.mozilla.org/pt-BR/firefox/addon/gnome-shell-integration/)
+
+
+
 
 ### GNOME Shell Extensions
 - **[User Themes](https://extensions.gnome.org/extension/19/user-themes/)**: Allows you to apply custom themes to GNOME Shell, offering the flexibility to use themes that are not part of the default GNOME package.
@@ -68,9 +77,13 @@
 - **[Top Bar Organizer](https://extensions.gnome.org/extension/4356/top-bar-organizer/)**: Allows customization and organization of items on the GNOME Shell top bar, improving functionality and appearance.
 
 
+
+
 ### How to Apply the Theme
 - You will need the [USER THEMES](https://extensions.gnome.org/extension/19/user-themes/) extension to apply this theme.
 - Open GNOME Tweaks, under Appearance, select `material-purple-mod-theme` for both Shell and Applications.
+
+
 
 
 ### System Settings
@@ -81,15 +94,22 @@
 - ***Optional: Enable 'Tiling Windows' & Disable 'Show Window Titles' for a better experience.***
 
 
+
+
 ### Where Tested
 - Note that it was tested only on POP!_OS
 
 
+
+
 ### Bonus: Terminal
 - [OH MY ZSH](https://ohmyz.sh/): A popular framework for managing Zsh configurations, offering a variety of themes and plugins to enhance the terminal experience.
+- [ZINIT](https://github.com/zdharma-continuum/zinit): Zinit is a fast and flexible Zsh plugin manager that simplifies installing, updating, and managing Zsh plugins and themes. 
 - [POWER LEVEL 10K](https://github.com/romkatv/powerlevel10k): A Zsh theme that provides a fast and highly customizable prompt with rich visual elements and informative status indicators.
 - [KITTY DRACULA THEME](https://draculatheme.com/kitty): A Dracula color scheme theme for the Kitty terminal emulator, providing a dark and visually appealing interface.
 - [GNOME TERMINAL DRACULA THEME](https://draculatheme.com/gnome-terminal): A Dracula color scheme theme for GNOME Terminal, offering a cohesive dark theme to enhance readability and reduce eye strain.
+
+
 
 
 ### Bonus: Icon Theme
@@ -97,6 +117,13 @@
 - [Beauty Solar Icon Theme (Gnome Look)](https://store.kde.org/p/2037657/)
 
 
-## MOD By: Andreas Pinheiro
+
+
+### Bonus: Cava Purple Customization
+
+
+
+
+### MOD By: Andreas Pinheiro
 - [GITHUB](https://github.com/Andreas-Pinheiro)
 - [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
