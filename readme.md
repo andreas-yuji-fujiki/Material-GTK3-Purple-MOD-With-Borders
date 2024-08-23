@@ -120,6 +120,7 @@
 
 
 ### Bonus: Cava Purple Customization
+- You can turn your Cava colors into purple by copying the content of [THIS FILE](https://github.com/Andreas-Pinheiro/Material-GTK3-Purple-MOD-With-Borders/tree/master/cava) into your cava config file!
 
 
 
