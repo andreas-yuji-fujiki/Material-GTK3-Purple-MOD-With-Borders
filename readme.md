@@ -80,7 +80,7 @@
 - And disable the SUPER shortcut to open "all apps";
 - Then bind a shortcut to open Arc Menu;
 - And, on "Dash to Panel" extension settings, set the icon padding and panel width as you like!
-#### Optional: Enable 'Tiling Windows' & Disable 'Show Window Titles' for a better experience.
+- ***Optional: Enable 'Tiling Windows' & Disable 'Show Window Titles' for a better experience.***
 
 ### Where Tested
 
