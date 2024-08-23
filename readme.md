@@ -11,7 +11,7 @@
 ### Theme Installation:
 ### - First, [DOWNLOAD](https://github.com/Andreas-Pinheiro/Material-GTK-Purple-MOD-With-Borders/raw/master/material-purple-mod-theme.zip) the theme
 - Then, uzip it;
-- Move the theme folder to: ~/.themes;
+- Move the theme folder to: ` ~/.themes `;
 - If it not exists: 
    ```bash
   mkdir ~/.themes
