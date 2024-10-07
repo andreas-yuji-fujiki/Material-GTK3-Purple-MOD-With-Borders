@@ -129,6 +129,6 @@
 
 
 
-### MOD By: Andreas Pinheiro
+### By: Andreas Pinheiro
 - [GITHUB](https://github.com/Andreas-Pinheiro)
 - [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
