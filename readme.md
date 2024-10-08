@@ -129,7 +129,7 @@
 
 
 
-### By: Andreas Pinheiro
+### By: Andreas Yuji
 - [ Portfolio! ](https://andreas-yuji-fujiki.github.io/portfolio)
 - [GITHUB](https://github.com/Andreas-Pinheiro)
 - [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
