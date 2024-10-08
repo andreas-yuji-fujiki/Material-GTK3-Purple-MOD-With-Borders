@@ -131,5 +131,5 @@
 
 ### By: Andreas Yuji
 - [ Portfolio! ](https://andreas-yuji-fujiki.github.io/portfolio)
-- [GITHUB](https://github.com/Andreas-Pinheiro)
-- [LINKEDIN](https://www.linkedin.com/in/andreas-pinheiro-a08633321/)
+- [GITHUB](https://github.com/andreas-yuji-fujiki)
+- [LINKEDIN](www.linkedin.com/in/andreas-yuji-fujiki-a08633321)
